@@ -96,3 +96,7 @@ Ensure that anyone can run the steps and add the token to MyCrypto, or a similar
 Include information such as the token parameters, token name, crowdsale cap, etc.
 
 ### explaining the process for purchasing PupperCoin 
+
+![add-custom-token](Images/coin.gif)
+![add-custom-token](Images/sells.gif)
+![add-custom-token](Images/buy coin.gif)
