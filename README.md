@@ -82,7 +82,7 @@ You can also do the same for MetaMask. Make sure to purchase higher amounts of t
 
 Deploy the crowdsale to the Kovan or Ropsten testnet, and store the deployed address for later. Switch MetaMask to your desired network, and use the `Deploy` tab in Remix to deploy your contracts. Take note of the total gas cost, and compare it to how costly it would be in reality. Since you are deploying to a network that you don't have control over, faucets will not likely give out 300 test Ether. You can simply reduce the goal when deploying to a testnet to an amount much smaller, like 10,000 wei.
 
-![add-custom-token](https://i.imgur.com/p1wwXQ9.png)
+![add-custom-token](Images/deployer.gif)
 
 ### Submission
 
