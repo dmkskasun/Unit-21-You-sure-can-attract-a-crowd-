@@ -99,4 +99,4 @@ Include information such as the token parameters, token name, crowdsale cap, etc
 
 ![add-custom-token](Images/coin.gif)
 ![add-custom-token](Images/sells.gif)
-![add-custom-token](Images/buy coin.gif)
+![add-custom-token](Images/buycoin.gif)
